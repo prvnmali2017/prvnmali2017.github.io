@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shashidhar Ravishankar"
+title: "Praveen Mali"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
